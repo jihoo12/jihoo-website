@@ -554,8 +554,32 @@ video {
   --tw-contain-style:  ;
 }
 
+.mr-2 {
+  margin-right: 0.5rem;
+}
+
 .mt-2 {
   margin-top: 0.5rem;
+}
+
+.mt-4 {
+  margin-top: 1rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.h-12 {
+  height: 3rem;
+}
+
+.w-12 {
+  width: 3rem;
+}
+
+.items-center {
+  align-items: center;
 }
 
 .bg-blue-500 {
@@ -563,17 +587,8 @@ video {
   background-color: rgb(59 130 246 / var(--tw-bg-opacity));
 }
 
-.p-4 {
-  padding: 1rem;
-}
-
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
-}
-
-.font-bold {
-  font-weight: 700;
+.p-2 {
+  padding: 0.5rem;
 }
 
 .text-white {
